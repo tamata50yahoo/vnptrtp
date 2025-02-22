@@ -789,3 +789,5 @@ rtp://@232.84.1.238:10296
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
 rtp://@232.84.2.197:10966
 
+
+#https://raw.githubusercontent.com/ntd249/ntdiptv/main/mytvrtp#
