@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://tv.ddns.vn/logo/vtv1hd.png",VTV1 (HD 8.5Mbps)
 rtp://@232.84.1.117:10254
