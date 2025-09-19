@@ -284,7 +284,50 @@ rtp://@232.84.1.210:9234
 #EXTINF:0 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://tv.ddns.vn/logo/ongolf.png",ON Golf (HD 8.5Mbps)
 rtp://@232.84.2.246:10876
 
-#------------------------Quốc Tế------------------------#
+#------------------------Quốc Tế HD------------------------#
+
+#EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/boxhits.png",Box Hits (HD 5Mbps)
+rtp://@232.84.1.77:8436
+#EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/boxhits.png",Box Hits
+rtp://@232.84.1.10:8034
+
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cartoonhd.png",Cartoon Network (HD 8.5Mbps)
+rtp://@232.84.2.144:10684
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cartoonhd.png",Cartoon Network (HD 10Mbps)
+rtp://@232.84.3.62:11680
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cartoonhd.png",Cartoon Network
+rtp://@232.84.1.16:8070
+
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cinemaxhd.png",Cinemax (HD 8.5Mbps)
+rtp://@232.84.3.117:10654
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cinemaxhd.png",Cinemax
+rtp://@232.84.1.20:8094
+
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/hbohd.png",HBO (HD 8.5Mbps)
+rtp://@232.84.2.138:10648
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/hbohd.png",HBO (HD 8.5Mbps)
+rtp://@232.84.3.101:10648
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/hbohd.png",HBO
+rtp://@232.84.1.19:8088
+
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv1.png",SPOTV (HD 9Mbps)
+rtp://@232.84.2.141:10666
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv1.png",SPOTV (HD 9Mbps)
+rtp://@232.84.3.111:10666
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv1.png",SPOTV (HD 9Mbps)
+rtp://@232.84.3.49:11758
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv2.png",SPOTV2 (HD 9Mbps)
+rtp://@232.84.2.142:10672
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv2.png",SPOTV2 (HD 9Mbps)
+rtp://@232.84.3.129:10672
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv2.png",SPOTV2 (HD 9Mbps)
+rtp://@232.84.3.48:11764
+
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv1.png",SPOTV
+rtp://@232.84.1.11:8040
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv2.png",SPOTV2
+rtp://@232.84.1.12:8046
+
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/animalhd.png",Animal Planet (HD 8.5Mbps)
 rtp://@232.84.3.139:10702
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/animalhd.png",Animal Planet (HD 10Mbps)
@@ -307,20 +350,15 @@ rtp://@232.84.3.225:11272
 rtp://@232.84.3.224:11266
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/bloomberg.png",Bloomberg (HD 9Mbps)
 rtp://@232.84.3.157:10696
-#EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/boxhits.png",Box Hits (HD 5Mbps)
-rtp://@232.84.1.77:8436
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cartoonhd.png",Cartoon Network (HD 8.5Mbps)
-rtp://@232.84.2.144:10684
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cartoonhd.png",Cartoon Network (HD 10Mbps)
-rtp://@232.84.3.62:11680
+
+
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cinemaworldhd.png",Cinema World (HD 8.5Mbps)
 rtp://@232.84.2.172:10840
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cinemaworldhd.png",Cinema World (HD 8.5Mbps)
 rtp://@232.84.3.103:10840
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cinemaworldhd.png",Cinema World (HD 9Mbps)
 rtp://@232.84.3.64:11668
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cinemaxhd.png",Cinemax (HD 8.5Mbps)
-rtp://@232.84.3.117:10654
+
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 6.5Mbps)
 rtp://@232.84.2.55:10540
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 6.5Mbps)
@@ -349,28 +387,14 @@ rtp://@232.84.3.154:10416
 rtp://@232.84.2.52:10522
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/fashionhd.png",Fashion TV (HD 8.5Mbps)
 rtp://@232.84.3.149:10522
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/hbohd.png",HBO (HD 8.5Mbps)
-rtp://@232.84.2.138:10648
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/hbohd.png",HBO (HD 8.5Mbps)
-rtp://@232.84.3.101:10648
+
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/musicbox.png",Music Box (HD 8Mbps)
 rtp://@232.84.1.13:8052
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/nhkworld.png",NHK World Japan (HD 8.5Mbps)
 rtp://@232.84.1.72:8406
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/outdoorhd.png",Outdoor (HD 7.5Mbps)
 rtp://@232.84.1.107:10218
-#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv1.png",SPOTV (HD 9Mbps)
-rtp://@232.84.2.141:10666
-#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv1.png",SPOTV (HD 9Mbps)
-rtp://@232.84.3.111:10666
-#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv1.png",SPOTV (HD 9Mbps)
-rtp://@232.84.3.49:11758
-#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv2.png",SPOTV2 (HD 9Mbps)
-rtp://@232.84.2.142:10672
-#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv2.png",SPOTV2 (HD 9Mbps)
-rtp://@232.84.3.129:10672
-#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv2.png",SPOTV2 (HD 9Mbps)
-rtp://@232.84.3.48:11764
+
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/tlchd.png",TLC (HD 8.5Mbps)
 rtp://@232.84.3.156:10708
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE (HD 6.5Mbps)
@@ -379,7 +403,11 @@ rtp://@232.84.3.205:11152
 rtp://@232.84.2.51:10516
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/warnertvhd.png",WBTV (HD 11Mbps)
 rtp://@232.84.3.63:11674
-#------------------------Quốc Tế------------------------#
+
+
+
+#------------------------Quốc Tế SD------------------------#
+
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Nz525XH.png",123TV
 rtp://@232.84.3.39:11818
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/abcaustralia.png",ABC Australia
@@ -406,10 +434,8 @@ rtp://@232.84.3.200:11122
 rtp://@232.84.2.239:10452
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/bloomberg.png",Bloomberg
 rtp://@232.84.1.7:8016
-#EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/boxhits.png",Box Hits
-rtp://@232.84.1.10:8034
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cartoonhd.png",Cartoon Network
-rtp://@232.84.1.16:8070
+
+
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rkF6lUv.png",CCTV2
 rtp://@232.84.2.240:10458
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rkF6lUv.png",CCTV2
@@ -432,8 +458,7 @@ rtp://@232.84.3.182:11014
 rtp://@232.84.3.181:11008
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cinemaworldhd.png",Cinema World
 rtp://@232.84.1.44:8244
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/cinemaxhd.png",Cinemax
-rtp://@232.84.1.20:8094
+
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
 rtp://@232.84.1.5:8004
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
@@ -458,8 +483,7 @@ rtp://@232.84.2.135:9606
 rtp://@232.84.3.145:9606
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/IRjtg6r.png",France 24 (Francais)
 rtp://@232.84.3.207:11164
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/hbohd.png",HBO
-rtp://@232.84.1.19:8088
+
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Y944An6.png",HSE
 rtp://@232.84.3.37:11830
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/g9RMxW8.png",Hunan International
@@ -494,10 +518,7 @@ rtp://@232.84.2.125:8538
 rtp://@232.84.3.45:11782
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6bUPlxA.png",Shenzhen
 rtp://@232.84.3.186:11038
-#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv1.png",SPOTV
-rtp://@232.84.1.11:8040
-#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/spotv2.png",SPOTV2
-rtp://@232.84.1.12:8046
+
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dX2hQHJ.png",TDM Macau
 rtp://@232.84.3.192:11074
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://tv.ddns.vn/logo/tlchd.png",TLC
@@ -511,7 +532,31 @@ rtp://@232.84.3.38:11824
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3jlwft1.png",Xing Kong
 rtp://@232.84.3.189:11056
 
-#------------------------Địa Phương------------------------#
+#------------------------Địa Phương HD------------------------#
+
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong1hd.png",THVL1 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
+rtp://@232.84.3.152:10882
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
+rtp://@232.84.3.164:10888
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
+rtp://@232.84.3.95:11482
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong3hd.png",THVL3 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
+rtp://@232.84.3.165:10900
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong4hd.png",THVL4 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
+rtp://@232.84.3.160:10912
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 | Báo và Đài PTTH Vĩnh Long
+rtp://@232.84.2.115:8778
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong1hd.png",THVL1 | Báo và Đài PTTH Vĩnh Long
+rtp://@232.84.1.195:9144
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 | Báo và Đài PTTH Vĩnh Long
+rtp://@232.84.1.196:9150
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong3hd.png",THVL3 | Báo và Đài PTTH Vĩnh Long
+rtp://@232.84.3.151:10894
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong4hd.png",THVL4 | Báo và Đài PTTH Vĩnh Long
+rtp://@232.84.3.150:10906
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 | Báo và Đài PTTH Vĩnh Long
+rtp://@232.84.2.102:9114
+
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/laocai.png",THLC HD | Báo Lào Cai (HD 6Mbps)
 rtp://@232.84.3.253:11440
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/thainguyen.png",TN | Báo và PTTH Thái Nguyên (HD 6Mbps)
@@ -576,16 +621,7 @@ rtp://@232.84.3.47:11770
 rtp://@232.84.3.235:11332
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/tiengiang.png",THTG HD | Báo Ấp Bắc và Đài PTTH Tiền Giang (HD 6Mbps)
 rtp://@232.84.3.204:11146
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong1hd.png",THVL1 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
-rtp://@232.84.3.152:10882
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
-rtp://@232.84.3.164:10888
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
-rtp://@232.84.3.95:11482
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong3hd.png",THVL3 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
-rtp://@232.84.3.165:10900
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong4hd.png",THVL4 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
-rtp://@232.84.3.160:10912
+
 #EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/kiengiang.png",ATV1 | Báo và PTTH An Giang (HD 6Mbps)
 rtp://@232.84.3.161:10918
 #EXTINF:0 tvg-id="angiang" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/angiang.png",ATV2 | Báo và PTTH An Giang (HD 8.5Mbps)
@@ -596,7 +632,8 @@ rtp://@232.84.3.97:11470
 rtp://@232.84.1.248:9462
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/quangninh3.png",QTV3 HD | Trung tâm Truyền thông Quảng Ninh (HD 6.5Mbps)
 rtp://@232.84.1.249:9468
-#------------------------Địa Phương------------------------#
+
+#------------------------Địa Phương SD------------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/laocai.png",THLC | Báo Lào Cai
 rtp://@232.84.2.93:8718
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/laocai.png",THLC | Báo Lào Cai
@@ -711,18 +748,7 @@ rtp://@232.84.2.73:8748
 rtp://@232.84.1.154:8898
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/tiengiang.png",THTG | Báo Ấp Bắc và Đài PTTH Tiền Giang
 rtp://@232.84.1.189:9108
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 | Báo và Đài PTTH Vĩnh Long
-rtp://@232.84.2.115:8778
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong1hd.png",THVL1 | Báo và Đài PTTH Vĩnh Long
-rtp://@232.84.1.195:9144
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 | Báo và Đài PTTH Vĩnh Long
-rtp://@232.84.1.196:9150
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong3hd.png",THVL3 | Báo và Đài PTTH Vĩnh Long
-rtp://@232.84.3.151:10894
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong4hd.png",THVL4 | Báo và Đài PTTH Vĩnh Long
-rtp://@232.84.3.150:10906
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/vinhlong2hd.png",THVL2 | Báo và Đài PTTH Vĩnh Long
-rtp://@232.84.2.102:9114
+
 #EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/kiengiang.png",ATV1 | Báo và PTTH An Giang
 rtp://@232.84.2.113:8964
 #EXTINF:0 tvg-id="angiang" group-title="Địa Phương" tvg-logo="https://tv.ddns.vn/logo/angiang.png",ATV2 | Báo và PTTH An Giang
